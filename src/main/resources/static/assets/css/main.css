@@ -1,0 +1,16 @@
+ p.inleiding {
+            color: #ff0066;
+        }
+
+        p.hoofdstuk {
+            color: blue;
+        }
+
+        p#slot {
+            color: white;
+        }
+
+        body {
+            background-color: black;
+            text-align:center;
+        }
